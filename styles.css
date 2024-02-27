@@ -1,1 +1,48 @@
 /* Write your CSS here! */
+body {
+   background-color: lightskyblue;
+   display: block;
+   font-family: "Gill Sans";
+   margin: 8px;
+   padding: 8px;
+   text-align: center;
+   
+}
+
+
+.title {
+  color: darkblue;
+  background-color: grey;
+  text-align: center;
+}
+
+#mainHeading {
+  background-color: black;
+  color: red;
+  font-size: 350%;
+  text-align: center;
+}
+
+#testP {
+  color: grey;
+}
+
+.funParagraph {
+  background-color: darkblue;
+  color: green;
+
+}
+
+.picture {  
+    max-width: 100%;  
+    height: auto;  
+}  
+
+#footer {
+    text-align: center;
+}
+
+.br {
+    height: 30px;
+    background-color: grey;
+}
